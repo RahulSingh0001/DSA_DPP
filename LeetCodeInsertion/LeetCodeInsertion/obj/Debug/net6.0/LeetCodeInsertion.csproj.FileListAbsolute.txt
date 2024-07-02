@@ -1,0 +1,14 @@
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\bin\Debug\net6.0\LeetCodeInsertion.exe
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\bin\Debug\net6.0\LeetCodeInsertion.deps.json
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\bin\Debug\net6.0\LeetCodeInsertion.runtimeconfig.json
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\bin\Debug\net6.0\LeetCodeInsertion.dll
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\bin\Debug\net6.0\LeetCodeInsertion.pdb
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.AssemblyInfoInputs.cache
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.AssemblyInfo.cs
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.csproj.CoreCompileInputs.cache
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.dll
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\refint\LeetCodeInsertion.dll
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.pdb
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\LeetCodeInsertion.genruntimeconfig.cache
+D:\LeetCode\PerDayWork\LeetCodeInsertion\LeetCodeInsertion\obj\Debug\net6.0\ref\LeetCodeInsertion.dll
